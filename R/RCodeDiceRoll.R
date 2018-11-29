@@ -58,3 +58,5 @@ logtransformed<-function(NumericVector=NULL){
   return(output)
 
 }
+
+# adding a comment for example of editing within Git Hub
