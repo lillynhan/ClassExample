@@ -60,3 +60,4 @@ logtransformed<-function(NumericVector=NULL){
 }
 
 # adding a comment for example of editing within Git Hub
+# adding a comment within RStudio (local version) then sync with Git Hub; make sure to select check box and select commit with message
